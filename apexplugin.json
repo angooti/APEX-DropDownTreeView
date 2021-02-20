@@ -25,7 +25,7 @@
           "internalName" : "ANGOOTI.ITEM.DROPDOWNTREEVIEW",
           "type" : "item",
           "demo" : "https://apex.oracle.com/pls/apex/f?p=54580:3",
-          "previewImage" : "https://github.com/angooti/APEX-DropDownTreeView/blob/main/preview.gif"
+          "previewImage" : "https://raw.githubusercontent.com/angooti/APEX-DropDownTreeView/main/preview.gif"
         }
       }
     }
