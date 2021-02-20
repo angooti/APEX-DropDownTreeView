@@ -2,7 +2,7 @@
 This plugin allows you to create tree view select list
 
 ## Preview
-![](https://github.com/angooti/Apex-Captcha/blob/main/apex-captcha.gif)
+![](https://github.com/angooti/APEX-DropDownTreeView/blob/main/preview.gif)
 
 ## Install
 - Import plugin file "item_type_plugin_angooti_item_dropdowntreeview.sql" from **plugin** directory into your application
