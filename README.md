@@ -15,7 +15,7 @@ This plugin allows you to create tree view select list
                     the tree to be displayed from right to left, enable this option.
 - Enable Lazy load: You must Enable Lazy load for big data sets
 
-## Online Demo
+## Demo
 https://apex.oracle.com/pls/apex/f?p=54580:3
 
 ## Changelog
